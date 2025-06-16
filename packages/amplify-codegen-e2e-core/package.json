@@ -29,7 +29,7 @@
     "fs-extra": "^8.1.0",
     "globby": "^11.1.0",
     "ini": "^3.0.1",
-    "jest-circus": "^27.5.1",
+    "jest-circus": "^30.0.0",
     "jest-environment-node": "^26.6.2",
     "lodash": "^4.17.19",
     "node-pty": "1.0.0",
