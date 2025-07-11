@@ -47,7 +47,7 @@
     "graphql": "^15.5.0",
     "inflected": "^2.0.4",
     "prettier": "^1.19.1",
-    "rimraf": "^3.0.0",
+    "rimraf": "^4.3.1",
     "source-map-support": "^0.5.16",
     "yargs": "^15.1.0"
   },
